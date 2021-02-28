@@ -1,3 +1,3 @@
-#The Odin Project
+# The Odin Project
 
 This is a repository of ME trying to learn web develop with "The Odin Project". 
